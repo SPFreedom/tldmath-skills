@@ -28,4 +28,4 @@ The skill is also served at https://www.tldmath.com/skills/tldmath-launch/SKILL.
 
 ## License
 
-MIT
+MIT, for the files in this repository. Using TLDMath's website, API and connector is covered by its [terms](https://www.tldmath.com/terms). The license doesn't cover the TLDMath name or logo: if you fork the skill, please name it something else. Other product names here belong to their owners and are used only to say what the skill works with.
